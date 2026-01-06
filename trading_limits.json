@@ -1,5 +1,5 @@
 {
-    "max_position_size": 3,
+    "max_position_size": 16,
     "daily_loss_limit": -650.00,
     "daily_profit_target": 1200,
     "trading_enabled": true,
