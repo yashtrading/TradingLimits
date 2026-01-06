@@ -1,0 +1,14 @@
+{
+    "max_position_size": 3,
+    "daily_loss_limit": -650.00,
+    "daily_profit_target": 1200,
+    "trading_enabled": true,
+    "message": "MENTAL EASE",
+    "updated_at": "2025-01-06T08:00:00Z",
+    "symbol_limits": {
+        "NQ": 1,
+        "ES": 2,
+        "MNQ": 16,
+        "MES": 16
+    }
+}
