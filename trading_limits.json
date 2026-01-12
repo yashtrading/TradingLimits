@@ -1,7 +1,8 @@
 {
     "max_position_size": 16,
-    "daily_loss_limit": -650.00,
-    "daily_profit_target": 1200,
+    "daily_loss_limit": -1200.00,
+    "daily_profit_target": 1500,
+    "max_trail": 1000,
     "trading_enabled": true,
     "message": "MENTAL EASE",
     "updated_at": "2025-01-06T08:00:00Z",
